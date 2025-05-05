@@ -1,6 +1,6 @@
 ## Oi! Eu sou o João Lucas👋
 
-Sou um desenvolvedor front-end brasileiro, apaixonado por criar interfaces web incríveis e intuitivas. Gosto de transformar ideias em código limpo e funcional, mantendo sempre uma abordagem criativa e profissional. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer na área de desenvolvimento.
+Sou um dev front-end iniciante, apaixonado por criar interfaces web incríveis e intuitivas. Gosto de transformar ideias em código limpo e funcional, mantendo sempre uma abordagem criativa e profissional. Adoro aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer na área de desenvolvimento.
 
 
 <div style="display: inline_block"><br>
